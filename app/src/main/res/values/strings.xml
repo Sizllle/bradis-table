@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">bradis-table</string>
+    <string name="signature">Developed by Vladyslav Kuzminov</string>
+    <string name="name_splash_act">Таблицы Брадиса</string>
 </resources>
